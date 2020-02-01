@@ -1,24 +1,28 @@
-# Welcome to Rory's first nb_dev module!
-> Going to be awesome.
+# Welcome to nbdev_template
+> This is my hello world for nbdev.
 
 
 Hope this works!
 
-## Install
+## 1 Install
 
 `pip install your_project_name`
 
-## How to use
+## 2 How to use
 
-Fill me in please! Don't forget code examples:
+Let's see this at work:
 
 ```python
-1+1
+say_hello("Joe")
 ```
 
 
 
 
-    2
+    'Hello Joe!'
 
 
+
+```python
+say_hello("Rory")
+```

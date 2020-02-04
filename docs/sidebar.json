@@ -1,6 +1,6 @@
 {
   "nbdev_template": {
     "Overview": "/",
-    "helloworld_nbdev": "/core"
+    "npdev_template": "/core"
   }
 }

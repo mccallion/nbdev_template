@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: helloworld_nbdev
+      title: npdev_template
       url: /core
     output: web
     title: nbdev_template

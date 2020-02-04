@@ -1,12 +1,12 @@
-# Welcome to nbdev_template
-> This is my hello world for nbdev.
+# Welcome to my nbdev_template docs!
+> nbdev_template is a copyright of not Rory McCallion.
 
 
-Hope this works!
+nbdev is an awesome project by Jeremey Howard. I'm following this along so I can learn Python, machine learning, and software development all at the same time. Becuase why not? Seems like a good idea. Here are the steps for installing my project, which has the horrible idiotic name of nbdev_template.
 
 ## 1 Install
 
-`pip install your_project_name`
+Run: `pip install your_project_name`
 
 ## 2 How to use
 
